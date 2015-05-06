@@ -12,8 +12,10 @@ This functionality could easily be achieved completely with a single bash script
 
 ### Enhancements
 
+Inspection of search results for the best match (currently only returns the 1st result)
 The util could be extended to extract the tv season and episode number from the standard torrent filenae convention with regex.
 Add a bash script to package the application as a jar.
+error handling
 
 ### Usage
 
