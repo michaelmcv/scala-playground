@@ -1,0 +1,8 @@
+build
+target
+.idea
+.idea/*
+.idea_modules
+logs
+libraries
+**/target/
